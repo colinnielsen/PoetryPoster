@@ -1,2 +1,2 @@
-Screenshot:
+Screenshot preview:
 ![](screenshot.jpg)
